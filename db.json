@@ -1,39 +1,31 @@
 {
-  "securitygroup": [
+  "kpiconfiguration": [
       {
         "id": 1,
-        "securitygroupname": "NPI Engineers",
-        "Number of Permissions": 2,
-        "Number of Roles": "1",
-        "Number of Users": "1"
+        "name": "CPM name",
+        "description": "CPM description",
+        "managerEmail": "test@rest.com",
+        "weight": 50,
+        "department": "CMP",
+        "target" "Leadership"
       },
     {
         "id": 2,
-        "securitygroupname": "NPI Engineers Specialist",
-        "Number of Permissions": 2,
-        "Number of Roles": "1",
-        "Number of Users": "1"
+        "name": "NPI name",
+        "description": "CPM description",
+        "managerEmail": "loki@mtn.com",
+        "weight": 99,
+        "department": "NPI Department",
+        "target" "Compliance"
     },
     {
         "id": 3,
-        "securitygroupname": "NPI Manager",
-        "Number of Permissions": 2,
-        "Number of Roles": "1",
-        "Number of Users": "1"
-    },
-    {
-        "id": 4,
-        "securitygroupname": "Customer Project Manager",
-        "Number of Permissions": 2,
-        "Number of Roles": "1",
-        "Number of Users": "1"
-    },
-    {
-        "id": 5,
-        "securitygroupname": "Service Manager",
-        "Number of Permissions": 2,
-        "Number of Roles": "1",
-        "Number of Users": "1"
+        "name": "NPI Engineer",
+        "description": "NPI Engineer Description",
+        "managerEmail": "loki@mtn.com",
+        "weight": 45,
+        "department": "NPI Engineering Department",
+        "target" "Innovation and Creativity"
     }
     ]
 }
