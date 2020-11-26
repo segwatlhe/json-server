@@ -7,7 +7,7 @@
         "managerEmail": "test@rest.com",
         "weight": 50,
         "department": "CMP",
-        "target" "Leadership"
+        "target": "Leadership"
       },
     {
         "id": 2,
@@ -16,7 +16,7 @@
         "managerEmail": "loki@mtn.com",
         "weight": 99,
         "department": "NPI Department",
-        "target" "Compliance"
+        "target": "Compliance"
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
         "managerEmail": "loki@mtn.com",
         "weight": 45,
         "department": "NPI Engineering Department",
-        "target" "Innovation and Creativity"
+        "target": "Innovation and Creativity"
     }
     ]
 }
