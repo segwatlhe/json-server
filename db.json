@@ -27,5 +27,34 @@
         "department": "NPI Engineering Department",
         "target": "Innovation and Creativity"
     }
+    ],
+    "test": [
+      {
+        "id": 1,
+        "name": "CPM name",
+        "description": "CPM description",
+        "managerEmail": "test@rest.com",
+        "weight": 50,
+        "department": "CMP",
+        "target": "Leadership"
+      },
+    {
+        "id": 2,
+        "name": "NPI name",
+        "description": "CPM description",
+        "managerEmail": "loki@mtn.com",
+        "weight": 99,
+        "department": "NPI Department",
+        "target": "Compliance"
+    },
+    {
+        "id": 3,
+        "name": "NPI Engineer",
+        "description": "NPI Engineer Description",
+        "managerEmail": "loki@mtn.com",
+        "weight": 45,
+        "department": "NPI Engineering Department",
+        "target": "Innovation and Creativity"
+    }
     ]
 }
