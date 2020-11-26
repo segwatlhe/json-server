@@ -31,15 +31,15 @@
     "linkEmployees": [
       {
         "id": 1,
-        "employee": "employee name",
-        "manager": "manager name",
-        "managerEmail": "test@rest.com"
+        "employee": "employee Jack",
+        "manager": "manager Jill",
+        "managerEmail": "jill.black@mtn.com"
       },
       {
         "id": 2,
-        "employee": "employee name",
-        "manager": "manager name",
-        "managerEmail": "test@rest.com"
+        "employee": "employee Bill",
+        "manager": "manager Sally",
+        "managerEmail": "sally.smith@mtn.com"
       }
     ]
 }
