@@ -33,13 +33,15 @@
         "id": 1,
         "employee": "employee Jack",
         "manager": "manager Jill",
-        "managerEmail": "jill.black@mtn.com"
+        "managerEmail": "jill.black@mtn.com",
+        "isLinked": "false"
       },
       {
         "id": 2,
         "employee": "employee Bill",
         "manager": "manager Sally",
-        "managerEmail": "sally.smith@mtn.com"
+        "managerEmail": "sally.smith@mtn.com",
+        "isLinked": "true"
       }
     ]
 }
