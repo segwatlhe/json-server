@@ -42,6 +42,27 @@
         "manager": "manager Sally",
         "managerEmail": "sally.smith@mtn.com",
         "isLinked": "true"
+      },
+      {
+        "id": 3,
+        "employee": "employee Sarah",
+        "manager": "manager Bradley",
+        "managerEmail": "bradley.jin@mtn.com",
+        "isLinked": "true"
+      },
+      {
+        "id": 4,
+        "employee": "employee Wardah",
+        "manager": "manager Wardah",
+        "managerEmail": "Wardah.pienaars@mtn.com",
+        "isLinked": "false"
+      },
+      {
+        "id": 5,
+        "employee": "employee thapela",
+        "manager": "manager mphaaka",
+        "managerEmail": "pakas.mokoena@mtn.com",
+        "isLinked": "false"
       }
     ]
 }
