@@ -34,35 +34,35 @@
         "employee": "employee Jack",
         "manager": "manager Jill",
         "managerEmail": "jill.black@mtn.com",
-        "isLinked": "false"
+        "isLinked": false
       },
       {
         "id": 2,
         "employee": "employee Bill",
         "manager": "manager Sally",
         "managerEmail": "sally.smith@mtn.com",
-        "isLinked": "true"
+        "isLinked": true
       },
       {
         "id": 3,
         "employee": "employee Sarah",
         "manager": "manager Bradley",
         "managerEmail": "bradley.jin@mtn.com",
-        "isLinked": "true"
+        "isLinked": true
       },
       {
         "id": 4,
         "employee": "employee Wardah",
         "manager": "manager Wardah",
         "managerEmail": "Wardah.pienaars@mtn.com",
-        "isLinked": "false"
+        "isLinked": false
       },
       {
         "id": 5,
         "employee": "employee thapela",
         "manager": "manager mphaaka",
         "managerEmail": "pakas.mokoena@mtn.com",
-        "isLinked": "false"
+        "isLinked": false
       }
     ]
 }
