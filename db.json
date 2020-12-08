@@ -64,5 +64,16 @@
         "managerEmail": "pakas.mokoena@mtn.com",
         "isLinked": false
       }
-    ]
+    ],
+    "kpiCaptureList": [
+      {
+        "id": 1,
+        "firstName": "employee Jack",
+        "lastName": "manager Jill",
+        "departmentDescription": "jill.black@mtn.com",
+        "kpiDescription": false,
+        "kpiStartDate": "startDate",
+        "kpiEndDate: "endDate"
+      }
+      ]
 }
