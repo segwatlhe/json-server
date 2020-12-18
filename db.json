@@ -112,8 +112,6 @@
         "id": 1,
         "firstName": "employee Jack",
         "lastName": "manager Jill",
-        "department": "jill.black@mtn.com",
-        "kpiDescription": "bothata ba problem",
         "startDate": "2020-06-17 19:24:52.338335",
         "endDate": "2020-06-17 19:24:52.338335"
       }
