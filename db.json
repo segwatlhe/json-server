@@ -118,6 +118,17 @@
         "active": true,
         "department": null
     }
+},
+      {
+    "id": 24335,
+    "firstName": "Vincent",
+    "lastName": "Kennedy",
+    "kpiDTO": {
+        "id": 2,
+        "kpiDescription": "test2",
+        "active": true,
+        "department": null
+    }
 }
       ]
 }
