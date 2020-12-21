@@ -131,7 +131,7 @@
       }
     }
   ],
-  "test": [
+  "kpiScoreList": [
     {
       "id": 1,
       "measurement": "7",
