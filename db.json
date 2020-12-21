@@ -1,134 +1,154 @@
 {
   "kpiconfiguration": [
-      {
-        "id": 1,
-        "name": "CPM name",
-        "description": "CPM description",
-        "managerEmail": "test@rest.com",
-        "weight": 50,
-        "department": "CMP",
-        "target": "Leadership"
-      },
     {
-        "id": 2,
-        "name": "NPI name",
-        "description": "CPM description",
-        "managerEmail": "loki@mtn.com",
-        "weight": 99,
-        "department": "NPI Department",
-        "target": "Compliance"
+      "id": 1,
+      "name": "CPM name",
+      "description": "CPM description",
+      "managerEmail": "test@rest.com",
+      "weight": 50,
+      "department": "CMP",
+      "target": "Leadership"
     },
     {
-        "id": 3,
-        "name": "NPI Engineer",
-        "description": "NPI Engineer Description",
-        "managerEmail": "loki@mtn.com",
-        "weight": 45,
-        "department": "NPI Engineering Department",
-        "target": "Innovation and Creativity"
+      "id": 2,
+      "name": "NPI name",
+      "description": "CPM description",
+      "managerEmail": "loki@mtn.com",
+      "weight": 99,
+      "department": "NPI Department",
+      "target": "Compliance"
+    },
+    {
+      "id": 3,
+      "name": "NPI Engineer",
+      "description": "NPI Engineer Description",
+      "managerEmail": "loki@mtn.com",
+      "weight": 45,
+      "department": "NPI Engineering Department",
+      "target": "Innovation and Creativity"
     }
-    ],
-    "linkEmployees": [
-      {
-        "id": 1,
-        "employee": "Johnny Depp",
-        "manager": "manager Jill",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 2,
-        "employee": "Hashirama Senju",
-        "manager": "manager Sally",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": true
-      },
-      {
-        "id": 3,
-        "employee": "Sarah Diggs",
-        "manager": "manager Bradley",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": true
-      },
-      {
-        "id": 4,
-        "employee": "Tobirama Wardah",
-        "manager": "manager Wardah",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 5,
-        "employee": "lwaze mathe",
-        "manager": "manager mphaaka",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 6,
-        "employee": "Minato Namikaze",
-        "manager": "pagination",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": true
-      },
-      {
-        "id": 7,
-        "employee": "lady tsunade",
-        "manager": "manager mphaaka",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 8,
-        "employee": "sasky uchiah",
-        "manager": "manager mphaaka",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 9,
-        "employee": "naruto uzumaki",
-        "manager": "manager mphaaka",
-        "managerEmail": "pakas.mokoena@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 10,
-        "employee": "j",
-        "manager": "manager mphaaka",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      },
-      {
-        "id": 11,
-        "employee": "jason tucker",
-        "manager": "manager mphaaka",
-        "managerEmail": "bradley.williams@mtn.com",
-        "isLinked": false
-      }
-    ],
-    "kpiCaptureList": [
-{
-    "id": 1,
-    "firstName": "Brandy",
-    "lastName": "Smith",
-    "kpiDTO": {
+  ],
+  "linkEmployees": [
+    {
+      "id": 1,
+      "employee": "Johnny Depp",
+      "manager": "manager Jill",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 2,
+      "employee": "Hashirama Senju",
+      "manager": "manager Sally",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": true
+    },
+    {
+      "id": 3,
+      "employee": "Sarah Diggs",
+      "manager": "manager Bradley",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": true
+    },
+    {
+      "id": 4,
+      "employee": "Tobirama Wardah",
+      "manager": "manager Wardah",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 5,
+      "employee": "lwaze mathe",
+      "manager": "manager mphaaka",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 6,
+      "employee": "Minato Namikaze",
+      "manager": "pagination",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": true
+    },
+    {
+      "id": 7,
+      "employee": "lady tsunade",
+      "manager": "manager mphaaka",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 8,
+      "employee": "sasky uchiah",
+      "manager": "manager mphaaka",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 9,
+      "employee": "naruto uzumaki",
+      "manager": "manager mphaaka",
+      "managerEmail": "pakas.mokoena@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 10,
+      "employee": "j",
+      "manager": "manager mphaaka",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    },
+    {
+      "id": 11,
+      "employee": "jason tucker",
+      "manager": "manager mphaaka",
+      "managerEmail": "bradley.williams@mtn.com",
+      "isLinked": false
+    }
+  ],
+  "kpiCaptureList": [
+    {
+      "id": 1,
+      "firstName": "Brandy",
+      "lastName": "Smith",
+      "kpiDTO": {
         "id": 1,
         "kpiDescription": "test",
         "active": true,
         "department": null
-    }
-},
-      {
-    "id": 24335,
-    "firstName": "Vincent",
-    "lastName": "Kennedy",
-    "kpiDTO": {
+      }
+    },
+    {
+      "id": 24335,
+      "firstName": "Vincent",
+      "lastName": "Kennedy",
+      "kpiDTO": {
         "id": 2,
         "kpiDescription": "test2",
         "active": true,
         "department": null
+      }
     }
-}
-      ]
+  ],
+    "kpiScoreList": [
+    {
+      "id": 1,
+      "measurement": "7",
+      "score": "100",
+      "comments": "Exceeding expectations",
+    },
+    {
+      "id": 2,
+      "measurement": "7",
+      "score": "100",
+      "comments": "Exceeding expectations",
+    },
+    {
+      "id": 3,
+      "measurement": "7",
+      "score": "100",
+      "comments": "Exceeding expectations",
+    }
+  ]
 }
