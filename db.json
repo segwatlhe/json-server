@@ -134,75 +134,39 @@
   "kpiScoreList": [
     {
       "id": 1,
-      "measurement": "Timesheets",
-      "score": "5",
-      "comments": "Exceeding expectations"
+      "measurement": "Improve Skills and completences",
+      "score": "4",
+      "comments": ""
     },
     {
       "id": 2,
-      "measurement": "Improve Skills and completences",
-      "score": "4",
-      "comments": "Exceeding expectations"
+      "measurement": "Can-do Attitude",
+      "score": "5",
+      "comments": ""
     },
     {
       "id": 3,
-      "measurement": "Can-do attitude",
-      "score": "3",
-      "comments": "Exceeding expectations"
+      "measurement": "Innovation",
+      "score": "4",
+      "comments": ""
     },
     {
       "id": 4,
-      "measurement": "Innovation",
+      "measurement": "Integrity",
       "score": "3",
-      "comments": "Exceeding expectations"
+      "comments": ""
     },
     {
       "id": 5,
-      "measurement": "Compliance",
-      "score": "2",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 3,
       "measurement": "Leadership",
-      "score": "1",
-      "comments": "Exceeding expectations"
+      "score": "2",
+      "comments": ""
     },
     {
       "id": 6,
       "measurement": "Relationships",
-      "score": "3",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 7,
-      "measurement": "Wllingness to help",
-      "score": "2",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 8,
-      "measurement": "Training",
-      "score": "5",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 9,
-      "measurement": "Other",
-      "score": "4",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 10,
-      "measurement": "7",
-      "score": "5",
-      "comments": "Exceeding expectations"
-    },
-    {
-      "id": 11,
-      "measurement": "7",
-      "score": "5",
-      "comments": "Exceeding expectations"
+      "score": "1",
+      "comments": ""
     }
   ]
 }
