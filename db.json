@@ -168,5 +168,16 @@
       "score": "",
       "comments": ""
     }
+  ],
+    "viewKpiTemplateList": [
+    {
+      "id": 1,
+      "kpiName": "kpiName",
+      "createdDate": "2020-12-14 15:53:03.799123",
+      "createBy": "test",
+      "lastEditedBy": "tester",
+      "lastEditedDate": "2020-12-14 15:53:03.799123",
+      "status": true
+    }
   ]
 }
