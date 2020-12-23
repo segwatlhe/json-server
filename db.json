@@ -135,37 +135,37 @@
     {
       "id": 1,
       "measurement": "Improve Skills and completences",
-      "score": "4",
+      "score": "",
       "comments": ""
     },
     {
       "id": 2,
       "measurement": "Can-do Attitude",
-      "score": "5",
+      "score": "",
       "comments": ""
     },
     {
       "id": 3,
       "measurement": "Innovation",
-      "score": "4",
+      "score": "",
       "comments": ""
     },
     {
       "id": 4,
       "measurement": "Integrity",
-      "score": "3",
+      "score": "",
       "comments": ""
     },
     {
       "id": 5,
       "measurement": "Leadership",
-      "score": "2",
+      "score": "",
       "comments": ""
     },
     {
       "id": 6,
       "measurement": "Relationships",
-      "score": "1",
+      "score": "",
       "comments": ""
     }
   ]
