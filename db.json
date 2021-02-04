@@ -169,24 +169,21 @@
       "comments": ""
     }
   ],
-    "viewKpiTemplateList": [
+    "targets": [
     {
       "id": 1,
-      "kpiName": "kpiName",
-      "createdDate": "2020-12-14 15:53:03.799123",
-      "createBy": "test",
-      "lastEditedBy": "tester",
-      "lastEditedDate": "2020-12-14 15:53:03.799123",
-      "status": true
+      "minTarget": 0,
+      "maxTarget": 0
     },
-     {
+          {
       "id": 2,
-      "kpiName": "kpiName2",
-      "createdDate": "2020-12-14 15:53:03.799123",
-      "createBy": "test2",
-      "lastEditedBy": "tester2",
-      "lastEditedDate": "2020-12-14 15:53:03.799123",
-      "status": false
+      "minTarget": 0,
+      "maxTarget": 0
+    },
+          {
+      "id": 3,
+      "minTarget": 0,
+      "maxTarget": 0
     }
   ]
 }
