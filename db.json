@@ -1,31 +1,25 @@
 {
-  "kpiconfiguration": [
+  "getKpiDocuments": [
     {
       "id": 1,
       "name": "CPM name",
-      "description": "CPM description",
-      "managerEmail": "test@rest.com",
-      "weight": 50,
-      "department": "CMP",
-      "target": "Leadership"
+      "description": "evidence",
+      "modifiedDate": "30 March 2021",
+      "document":"document"
     },
     {
       "id": 2,
-      "name": "NPI name",
-      "description": "CPM description",
-      "managerEmail": "loki@mtn.com",
-      "weight": 99,
-      "department": "NPI Department",
-      "target": "Compliance"
+      "name": "CPM name",
+      "description": "portfolia",
+      "modifiedDate": "30 March 2021"
+      "document": "supporting document"
     },
     {
       "id": 3,
-      "name": "NPI Engineer",
-      "description": "NPI Engineer Description",
-      "managerEmail": "loki@mtn.com",
-      "weight": 45,
-      "department": "NPI Engineering Department",
-      "target": "Innovation and Creativity"
+      "name": "CPM name",
+      "description": "additional",
+      "modifiedDate": "30 March 2021"
+      "document": "supporting document"
     }
   ],
   "linkEmployees": [
