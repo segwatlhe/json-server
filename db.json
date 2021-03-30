@@ -11,14 +11,14 @@
       "id": 2,
       "name": "CPM name",
       "description": "portfolia",
-      "modifiedDate": "30 March 2021"
+      "modifiedDate": "30 March 2021",
       "document": "supporting document"
     },
     {
       "id": 3,
       "name": "CPM name",
       "description": "additional",
-      "modifiedDate": "30 March 2021"
+      "modifiedDate": "30 March 2021",
       "document": "supporting document"
     }
   ],
