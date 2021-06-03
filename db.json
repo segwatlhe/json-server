@@ -1,25 +1,19 @@
 {
-  "getKpiDocuments": [
+  "getJobs": [
     {
       "id": 1,
       "name": "CPM name",
-      "description": "evidence",
-      "modifiedDate": "30 March 2021",
-      "document":"document"
+      "description": "evidence"
     },
     {
       "id": 2,
       "name": "CPM name",
-      "description": "portfolia",
-      "modifiedDate": "30 March 2021",
-      "document": "supporting document"
+      "description": "portfolia"
     },
     {
       "id": 3,
       "name": "CPM name",
-      "description": "additional",
-      "modifiedDate": "30 March 2021",
-      "document": "supporting document"
+      "description": "additional"
     }
   ],
   "linkEmployees": [
